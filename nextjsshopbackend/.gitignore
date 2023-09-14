@@ -1,9 +1,3 @@
-node_modules
-.cache
-.data
-.strapi-updater.json
-build
-
 ############################
 # OS X
 ############################
