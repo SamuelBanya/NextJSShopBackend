@@ -11,3 +11,8 @@ I then navigated to the following 'admin' page:
 I made a user with the following info:
 - Username: admin_user (admin@admin.com)
 - You know the rest
+
+<2023-09-14 Thu 18:25>: I had to overhaul this whole project with Strapi Version 4, and will have to figure out if its worth going along with it piecemeal since a lot of this involves a ton of backend data that I simply won't have since the instructor didn't bother to migrate the Strapi project from Version 3 to Version 4, even though the literal lowest version of Node that's supported is Node 14, which was released 3 years ago, which is centuries ago in the modern dev world.
+
+Very frustrating, but at least the docs were pretty good for Strapi themselves, so not gonna lie, not too bad on their part, but shame on the instructor for not doing the heavy lifting for the provided example:
+- https://docs.strapi.io/dev-docs/quick-start#_1-install-strapi-and-create-a-new-project
