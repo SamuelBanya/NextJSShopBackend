@@ -9,5 +9,5 @@ I then navigated to the following 'admin' page:
 - http://localhost:1337/admin/auth/register-admin
 
 I made a user with the following info:
-- Username: admin_user
+- Username: admin_user (admin@admin.com)
 - You know the rest
