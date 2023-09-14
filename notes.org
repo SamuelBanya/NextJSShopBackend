@@ -2,4 +2,5 @@
 #+begin_src bash
 npm install
 npm run build
+npm start
 #+end_src
