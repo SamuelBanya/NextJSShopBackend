@@ -4,3 +4,10 @@ npm install
 npm run build
 npm start
 #+end_src
+
+I then navigated to the following 'admin' page:
+- http://localhost:1337/admin/auth/register-admin
+
+I made a user with the following info:
+- Username: admin_user
+- You know the rest
