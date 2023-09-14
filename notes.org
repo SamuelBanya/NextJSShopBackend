@@ -16,3 +16,6 @@ I made a user with the following info:
 
 Very frustrating, but at least the docs were pretty good for Strapi themselves, so not gonna lie, not too bad on their part, but shame on the instructor for not doing the heavy lifting for the provided example:
 - https://docs.strapi.io/dev-docs/quick-start#_1-install-strapi-and-create-a-new-project
+
+Continue here:
+- https://onestaff.udemy.com/course/nextjs-by-example/learn/lecture/27185968#questions/20508372
