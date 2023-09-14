@@ -1,0 +1,5 @@
+<2023-09-13 Wed 20:26>: I ran these commands to initialize this repo from the already given backend data in the unzipped project:
+#+begin_src bash
+npm install
+npm run build
+#+end_src
