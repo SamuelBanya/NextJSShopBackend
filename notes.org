@@ -19,3 +19,8 @@ Very frustrating, but at least the docs were pretty good for Strapi themselves, 
 
 Continue here:
 - https://onestaff.udemy.com/course/nextjs-by-example/learn/lecture/27185968#questions/20508372
+
+<2023-09-19 Tue 18:57>: I am just following along at this point, because this course instructor is all over the place, and its better to just get an understanding of the different approaches to handle frontend vs backend fetching anyway, and mostly since I am probably going to opt for a completely different approach anyway for my own projects.
+
+Here's where I left off:
+- https://onestaff.udemy.com/course/nextjs-by-example/learn/lecture/27235354#questions
