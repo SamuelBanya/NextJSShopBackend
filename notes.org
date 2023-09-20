@@ -24,3 +24,6 @@ Continue here:
 
 Here's where I left off:
 - https://onestaff.udemy.com/course/nextjs-by-example/learn/lecture/27235354#questions
+
+<2023-09-20 Wed 17:20>: Continue here:
+- https://onestaff.udemy.com/course/nextjs-by-example/learn/lecture/27269318#questions/20508372
