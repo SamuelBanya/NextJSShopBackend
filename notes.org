@@ -30,3 +30,6 @@ Here's where I left off:
 
 <2023-09-25 Mon 19:17>: Continue here:
 - https://onestaff.udemy.com/course/nextjs-by-example/learn/lecture/27301974#notes
+
+<2023-09-26 Tue 19:50>: Continue here:
+- https://onestaff.udemy.com/course/nextjs-by-example/learn/lecture/27331798#questions
